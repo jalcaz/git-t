@@ -1,2 +1,2 @@
 console.log('config.js');
-crossOriginIsolated.log('version1');
+console.log('version12');
